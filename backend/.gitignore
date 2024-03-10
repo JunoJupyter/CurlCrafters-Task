@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+serviceAccountKey.json
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+
