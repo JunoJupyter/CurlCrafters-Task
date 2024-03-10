@@ -1,6 +1,6 @@
-# Resume Builder
+# Quiz App
 
-This is a resume builder application that allows users to create a resume in PDF format by filling out a form. It consists of a backend server built with Node.js and a frontend client built with React.js.
+This is a quizzing application that allows users to login/signup and test their knowledge in various fields and get the result which can be stored for future reference.
 
 ## Installation
 
